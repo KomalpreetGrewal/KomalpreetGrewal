@@ -6,5 +6,5 @@ I am final year student of B.Tech `(computer science)` in Guru Nanak Dev Enginee
 - 🤔 I’m looking for help with `c++` , `Data Structure in c++` , `Machine Learning`.
 - 💬 Ask me about `Nothing`.
 - 📫 How to reach me: github.com/KomalpreetGrewal 
-- 😄 Pronouns: `Komalpreet` / She
+- 😄 Pronouns: `She` /`Her`
 - ⚡ Fun fact: You are reading about me :-)
